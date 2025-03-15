@@ -1,0 +1,31 @@
+2025-03-15 22:31:46 - Starting user creation process...
+2025-03-15 22:31:46 - Creating user 'devops_user1'...
+2025-03-15 22:31:46 - Assigned 'devops_user1' to 'devops'.
+2025-03-15 22:31:46 - Set home directory permissions for 'devops_user1'.
+2025-03-15 22:31:46 - Creating user 'devops_user2'...
+2025-03-15 22:31:46 - Assigned 'devops_user2' to 'devops'.
+2025-03-15 22:31:46 - Set home directory permissions for 'devops_user2'.
+2025-03-15 22:31:46 - Creating user 'devops_admin'...
+2025-03-15 22:31:46 - Assigned 'devops_admin' to 'admin'.
+2025-03-15 22:31:46 - Set home directory permissions for 'devops_admin'.
+2025-03-15 22:31:46 - User creation process completed.
+2025-03-15 22:36:01 - Starting user creation process...
+2025-03-15 22:36:01 - User 'devops_user1' already exists. Skipping.
+2025-03-15 22:36:01 - User 'devops_user2' already exists. Skipping.
+2025-03-15 22:36:01 - User 'devops_admin' already exists. Skipping.
+2025-03-15 22:36:01 - User creation process completed.
+2025-03-15 22:38:32 - Starting user creation process...
+2025-03-15 22:38:32 - Creating user 'devops_admin'...
+2025-03-15 22:38:32 - User 'devops_admin' already exists. Skipping creation.
+2025-03-15 22:38:32 - Assigned 'devops_admin' to 'admin'.
+2025-03-15 22:38:32 - Set home directory permissions for 'devops_admin'.
+2025-03-15 22:38:32 - Creating user 'devops_user1'...
+2025-03-15 22:38:32 - User 'devops_user1' already exists. Skipping creation.
+2025-03-15 22:38:32 - Assigned 'devops_user1' to 'devops'.
+2025-03-15 22:38:32 - Set home directory permissions for 'devops_user1'.
+2025-03-15 22:38:32 - Creating user 'devops_user2'...
+2025-03-15 22:38:32 - User 'devops_user2' already exists. Skipping creation.
+2025-03-15 22:38:32 - Assigned 'devops_user2' to 'devops'.
+2025-03-15 22:38:32 - Set home directory permissions for 'devops_user2'.
+2025-03-15 22:38:32 - User creation process completed.
+2025-03-15 22:38:32 - Check user_management.log for details.
